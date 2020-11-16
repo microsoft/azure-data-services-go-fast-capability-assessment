@@ -30,7 +30,7 @@ The issues list contained in this repository can be used to carry out a "self" a
 
 1. Download and fill out the orange columns in the [Excel Assessment Template](/AssessmentDocuments/Foundations%20Collateral%20List%20-%20DevOps%20Template.xlsx). 
 2. Download the Assessment Power BI Report [Power BI Assessment Template](/AssessmentDocuments/Assessment%20-%20Power%20BI.pbix) and use it to generate your capability scores. Note you will need to point the Power BI Assessment template to your version of the Excel Assessment Template. Do this by editing the Power BI File parameters. 
-3. Download the [Power Point Assessment Template](/AssessmentDocuments/Power%20Point%20Assessment%20Template.pptx). Modify this template to create a maturity assessment summary presentation. 
+3. Download the [Power Point Assessment Template](/AssessmentDocuments/Power%20Point%20Assessment%20Template.potx). Modify this template to create a maturity assessment summary presentation. 
 
 Once the process is complete you will be able to generate charts similar to those shown below:
 
