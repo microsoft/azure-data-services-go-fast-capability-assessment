@@ -38,6 +38,11 @@ Once the process is complete you will be able to generate charts similar to thos
 
 ![Power BI Assessment - Incomplete](/Media/AssessmentReport_Incomplete_Features.png)
 
+# Building your Data and Anlytics Strategy
+Using the tools provided in this repository you can build out a data and analytics strategy that is designed to drive targeted capability uplift for your organisation. By reviewing and customising the feature list items you can effectively build your organisation's view of the utopian future state. By rating your organisation's current cpabilities as they pertain to each of the feature list items you can effectively build out your current state. Finally, by prioritising the gaps in your current capabilities and grouping these into projects you can define a full program of work that clearly sets out your transition plan from current to future state. A grapghical depiction if this is provided in the figure below. 
+
+![Capabilitly Assessemnt Overview](https://raw.githubusercontent.com/microsoft/azure-data-services-go-fast-documentation/main/media/CapabilityAssessmentOverview.png)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
